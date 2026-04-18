@@ -1,0 +1,84 @@
+body{
+    margin:0px;
+}
+.one{
+    padding:40px;
+    font-size:85px;
+    margin: 0px;
+}
+.p1{
+    font-size: 20px;
+    margin-top: 0px;
+}
+.first{
+    color:red;
+    background-color: red;
+    display: flex;
+    align-items: center;
+            justify-content: space-between;
+            padding: 20px;
+            
+}
+.images{
+    width: 200px;
+    padding-left: 20px;
+    
+}
+.second{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+.third{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    background-color:yellow;
+}.fourth{
+    background-color:orange;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+}
+.fifth{
+    background-color: rgb(85, 32, 32);
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    
+}
+.sixth{
+    background-color:purple;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}
+.seventh{
+    background-color:hotpink;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}.eight{
+    background-color:black;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}.nine{
+    background-color:aqua;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}
+.ten{
+    background-color:whitesmoke;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}
